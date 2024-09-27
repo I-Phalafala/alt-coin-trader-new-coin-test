@@ -29,7 +29,7 @@ The scheduled task is set up in src/index.js using node-schedule to run every 5 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/coin-service.git
+   git clone https://github.com/I-Phalafala/alt-coin-trader-new-coin-test.git
    cd coin-service
 2. Install the dependencies:
    npm install
